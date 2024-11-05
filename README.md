@@ -1,20 +1,26 @@
-# Flutter com Padrão: MVC
+# Flutter com Arquitetura em Camadas - Padrão MVC
 
-Projeto Google Bookmark para o curso de Padrão com Arquitetura: MVC, focado em utilizar o padrão de projeto MVC em um projeto Flutter.
+Projeto Google Bookmark para o curso de Arquitetura Mobile Cross-Platform: Aplicando arquitetura em camadas com padrão MVC.
 
-### Tópicos abordados no curso:
+### Tópicos abordados no projeto:
 
 - O que é MVC;
 - Como estruturar o projeto seguindo o padrão MVC;
 - Trabalhar em conjunto com outras pessoas dentro de um projeto;
 - Planejamento e definição de arquitetura.
 
-Este curso é indicado para pessoas que já tem conhecimento intermediário e querem aprofundar seu conhecimento em Flutter, seguindo boas práticas e também entendendendo como funciona arquitetura de software dentro dos padrões mobile.
+Este projeto é indicado para pessoas que já tem conhecimento intermediário e querem aprofundar seu conhecimento em Flutter, seguindo boas práticas e também entendendendo como funciona arquitetura de software dentro dos padrões mobile.
+
+## 📱 Protótipo no Figma
+
+Acesse e visualize as telas do projeto do app mobile cross-platform no Figma: 
+https://www.figma.com/design/BSObXvoUsKtnZ1c6NOYpem/Google-Bookmark---Postech 
+
 
 ## 📑 Requisitos
 
 - Conhecimentos intermediários de Flutter e Dart;
-- Android Studio ou VS Code (com plugins do Flutter e Dart instalados);
+- Android Studio ou VS Code (com plugins do Flutter instalado);
 - É importante ter o Flutter na versão 3.10.2.
 
 ## ✨ Funcionalidades do projeto
